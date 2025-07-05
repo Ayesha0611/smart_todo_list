@@ -37,9 +37,7 @@ python manage.py runserver
 Server: http://127.0.0.1:8000/api/tasks/
 
 ▶️ Frontend (Next.js + Tailwind)
-bash
-Copy
-Edit
+
 cd smart_todo_frontend
 npm install
 npm run dev
@@ -57,9 +55,7 @@ Accepts task & context data.
 Returns suggested category, deadline, priority score, and enhanced description.
 
 🧾 Example Request
-json
-Copy
-Edit
+
 {
   "task": {
     "title": "Prepare for math exam",
@@ -71,9 +67,7 @@ Edit
   }
 }
 ✅ Example Response
-json
-Copy
-Edit
+
 {
   "priority_score": 0.9,
   "suggested_deadline": "2025-07-07",
@@ -92,6 +86,4 @@ AI Output	Suggests: Category "Career", Score 0.75
 
 GitHub Repo: https://github.com/Ayesha0611/smart_todo_list
 
-yaml
-Copy
-Edit
+
