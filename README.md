@@ -11,9 +11,12 @@ This project is a full-stack AI-integrated Todo List web application built using
 ## 📸 Screenshots of the UI
 
 > Save screenshots inside a folder named `screenshots/` in your project and they will show here.
-### ➤ Full UI (Task Form, AI Suggestion, Task List)
+### ➤ Full UI – Light Mode
+![Full UI](screenshots/Full_ui.png)
 
-![Full UI](screenshots/full_ui.png)
+### ➤ Full UI – Dark Mode
+![Dark Mode](screenshots/dark_mode.png)
+
 
 ## ⚙️ Setup Instructions for Running the Application
 
